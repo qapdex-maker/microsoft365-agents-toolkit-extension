@@ -15,7 +15,9 @@ No matter you are building custom extensions for Microsoft 365 Copilot, Microsof
 You can bring your custom knowledge, skills, and process automation into Microsoft 365 Copilot for your specific needs. You can build your own agents for specific tasks, such as retrieving information, summarizing data, and taking actions like sending emails or updating records. There are two types of agents:
 
 [Declarative Agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-declarative-agent) are leveraging the models and AI services built in Copilot. You tailor Copilot by declaring instructions, actions and retrieving knowledge from specified APIs to meet your unique business needs.
-[Custom Engine Agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-custom-engine-agent) are specialized agent experiences built on any large language model (LLM) and tailored for a specific domain or workflows. You can build your custom orchestrators, foundation models, and you can customize your agent business logic.
+[Custom Engine Agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-custom-engine-agent) are specialized agent experiences built on any large language model (LLM) and tailored for a specific domain or workflows.
+
+You can build your custom orchestrators, foundation models, and you can customize your agent business logic.
 
 ### Build for Microsoft Teams
 
@@ -29,6 +31,7 @@ Microsoft Teams platform provides [diverse extensible features](https://learn.mi
 ### Build for Office and Outlook.
 
 You can build your custom [Office Add-ins](https://learn.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins) that extend and interact with content in Excel, Word, PowerPoint, OneNote and Outlook. You only need to build one solution and it can run in Office across all these apps.
+
 ## Getting started
 
 Open Microsoft 365 Agents Toolkit to create a new agent/app and start coding!
@@ -86,7 +89,7 @@ Verify you have the right prerequisites for building apps and install some recom
 
 ## Explore Code Samples
 
-Explore our [samples](https://github.com/OfficeDev/TeamsFx-Samples) to help you quickly get started with the basic app concepts and code structures.
+Explore [samples](https://github.com/OfficeDev/TeamsFx-Samples) to help you quickly get started with the basic app concepts and code structures.
 
 ## Contributing
 
