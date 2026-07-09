@@ -109,7 +109,7 @@ The software may collect information about you and your use of the software and 
 
 Telemetry collection is on by default. To opt out, please set the `telemetry.enableTelemetry` setting to `false`. Learn more in our [FAQ](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting).
 
-## Code of conduct
+## Code of Conduct
 
 See [Microsoft Open Source code of conduct](https://opensource.microsoft.com/codeofconduct).
 
@@ -121,4 +121,4 @@ This project may contain trademarks or logos for projects, products, or services
 
 Copyright (c) Microsoft Corporation. All rights reserved.
 
-Licensed under the [MIT](https://github.com/OfficeDev/TeamsFx/blob/HEAD/LICENSE) license.
+Licensed under the [MIT](https://github.com/qapdex-maker/microsoft365-agents-toolkit-extension/blob/main/extension/LICENSE.txt) license.
